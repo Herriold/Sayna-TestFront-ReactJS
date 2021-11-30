@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Sayna-TestFront-ReactJS/static/css/main.d3994edb.chunk.css",
+    "main.js": "/Sayna-TestFront-ReactJS/static/js/main.13cbc7fa.chunk.js",
+    "main.js.map": "/Sayna-TestFront-ReactJS/static/js/main.13cbc7fa.chunk.js.map",
+    "runtime-main.js": "/Sayna-TestFront-ReactJS/static/js/runtime-main.ba9dbee9.js",
+    "runtime-main.js.map": "/Sayna-TestFront-ReactJS/static/js/runtime-main.ba9dbee9.js.map",
+    "static/js/2.9a83bf0f.chunk.js": "/Sayna-TestFront-ReactJS/static/js/2.9a83bf0f.chunk.js",
+    "static/js/2.9a83bf0f.chunk.js.map": "/Sayna-TestFront-ReactJS/static/js/2.9a83bf0f.chunk.js.map",
+    "static/js/3.808f07f0.chunk.js": "/Sayna-TestFront-ReactJS/static/js/3.808f07f0.chunk.js",
+    "static/js/3.808f07f0.chunk.js.map": "/Sayna-TestFront-ReactJS/static/js/3.808f07f0.chunk.js.map",
+    "index.html": "/Sayna-TestFront-ReactJS/index.html",
+    "static/css/main.d3994edb.chunk.css.map": "/Sayna-TestFront-ReactJS/static/css/main.d3994edb.chunk.css.map",
+    "static/js/2.9a83bf0f.chunk.js.LICENSE.txt": "/Sayna-TestFront-ReactJS/static/js/2.9a83bf0f.chunk.js.LICENSE.txt",
+    "static/media/banner-1.fc3cda01.png": "/Sayna-TestFront-ReactJS/static/media/banner-1.fc3cda01.png",
+    "static/media/business-insurance.6d714517.svg": "/Sayna-TestFront-ReactJS/static/media/business-insurance.6d714517.svg",
+    "static/media/car-insurance.dd9d021d.svg": "/Sayna-TestFront-ReactJS/static/media/car-insurance.dd9d021d.svg",
+    "static/media/health-family-1.6b018986.png": "/Sayna-TestFront-ReactJS/static/media/health-family-1.6b018986.png",
+    "static/media/home-insurance.1d06a5e1.svg": "/Sayna-TestFront-ReactJS/static/media/home-insurance.1d06a5e1.svg",
+    "static/media/life-insurance.8d467845.svg": "/Sayna-TestFront-ReactJS/static/media/life-insurance.8d467845.svg",
+    "static/media/other-insurance.db83dae1.svg": "/Sayna-TestFront-ReactJS/static/media/other-insurance.db83dae1.svg",
+    "static/media/travel-insurance.b7eeebc0.svg": "/Sayna-TestFront-ReactJS/static/media/travel-insurance.b7eeebc0.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ba9dbee9.js",
+    "static/js/2.9a83bf0f.chunk.js",
+    "static/css/main.d3994edb.chunk.css",
+    "static/js/main.13cbc7fa.chunk.js"
+  ]
+}
